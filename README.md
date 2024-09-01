@@ -4,4 +4,4 @@ simple rock scissors paper game with computer
 
 ## Demo
 
-<img src="https://github.com/user-attachments/assets/38bf5f83-905e-44c0-952b-54b411d3c8a5" width="420px" height="300px"/>
+<img src="https://github.com/user-attachments/assets/6d53b1ce-ea79-4bd3-9fd3-de0f4a209d5f" width="420px" height="300px"/>
